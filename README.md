@@ -19,8 +19,8 @@ Here the features responsible to predict purchaser is Age and Estimated Salary a
 8. Visualizing the results (Train and Test sets)
 
 # Result obesrved from the project:
-1. SVM prediciton on Training set
+1. SVM prediciton on Training set\
 ![SVM prediciton on Training set](SVM-Result_on_Training_set.png)
 
-2. SVM prediciton on Testing set
+2. SVM prediciton on Testing set\
 ![SVM prediciton on Testing set](SVM-Result_on_Testing_set.png)
